@@ -1,0 +1,1 @@
+# My decorators for typescript
